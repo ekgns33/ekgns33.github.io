@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name: "Daniel Moon"
-  avatar: #/img/fdfd.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: /img/fdfd.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Studying Programming"
   location: "Somewhere"
   email:
