@@ -13,8 +13,7 @@ tags:
   - Boj
 use_math: true
 mathjax: true
-toc: true
-toc_sticky: true
+
 ---
 
 # Recursion : 재귀
